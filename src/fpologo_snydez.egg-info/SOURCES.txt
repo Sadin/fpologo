@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/fpologo/__init__.py
+src/fpologo/fpologo.py
+src/fpologo_snydez.egg-info/PKG-INFO
+src/fpologo_snydez.egg-info/SOURCES.txt
+src/fpologo_snydez.egg-info/dependency_links.txt
+src/fpologo_snydez.egg-info/top_level.txt
