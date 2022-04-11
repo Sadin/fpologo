@@ -1,8 +1,12 @@
 from __future__ import annotations
 
+import xml.etree.ElementTree as et
+
 
 def main() -> int:
-    print('Hello, World')
+    svg = et.parse('fedora-horiz_whitebg_test.svg')
+    root = svg.getroot()
+    print(root)
     return 0
 
 
