@@ -51,7 +51,7 @@
        rx="21.78281"
        ry="21.911839" />
     <g
-       id="g4492"
+       id="main_group"
        transform="translate(191.20951,202.18962)">
       <path
          id="path1626-3"
@@ -64,7 +64,7 @@
          y="-122.11155"
          id="text_main"><tspan
            sodipodi:role="line"
-           id="tspan1975"
+           id="tspan_main"
            style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:42.3333px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';stroke-width:0.264583"
            x="-282.60849"
            y="-122.11155">TEST</tspan></text>
