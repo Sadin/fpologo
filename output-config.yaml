@@ -1,0 +1,4 @@
+max_lines: 1
+default_dimensions:
+  - x: 200
+  - y: 54
